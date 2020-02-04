@@ -1,3 +1,4 @@
 # aws-automation
 
-This is coool!!!!
+
+Repo for the Automating AWD with Python course
